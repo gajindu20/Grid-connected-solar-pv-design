@@ -26,14 +26,8 @@ The system was designed as part of the EE4340 – Microgrids module.
 
 ## Tools Used
 - PVSyst
-- PSCAD/EMTDC
-- Analytical PV system calculations
+- PSCAD
 
 ## Results
 - Estimated monthly generation: ~3034 kWh
 - Confirmed stable grid injection under irradiance ramp-up, peak, intermittency, and shutdown scenarios
-
-## Author
-Herath H.H.G.G.
-Electrical Engineering Undergraduate
-University of Moratuwa
